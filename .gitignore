@@ -11,6 +11,6 @@ cypress/fixtures/profile.json
 cypress/fixtures/users.json
 .history
 .vscode
-env
+.env
 .DS_Storegit 
-.cypress.env.json
+cypress.env.json
